@@ -1,0 +1,26 @@
+hr {
+    width: 35%;
+    margin-left: 0;
+  }
+  
+  
+  .AA{
+   width: 800px;
+  }
+  
+  .box{
+    width: 40px;
+    height: 40px;
+    background-color: yellow;
+    margin: 3px;
+    float: left;
+    border: 1px black solid;
+  }
+  
+  .e{
+    background-color: green;
+  }
+  
+  div :nth-child(even){
+    margin-top: 28px;
+  }
